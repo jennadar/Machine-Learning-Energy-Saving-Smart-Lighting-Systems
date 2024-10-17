@@ -1,4 +1,4 @@
-# Reliability Test and Improvement of a Sensor System for Object Detection
+# Energy - Saving Smart Lighting Systems.
 
 ## Overview
 This study introduces an innovative approach to develop an algorithm that will act as an energy saving intelligent smart lighting system utilizing ADC data from ultrasonic sensor (FIUS). 
